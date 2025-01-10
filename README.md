@@ -1,3 +1,3 @@
 # EmployeeDummyDashboard
-Dashboard for testing Selenium AI Agent
-####
+Dashboard for testing Selenium AI Agent for Hackathon
+######
