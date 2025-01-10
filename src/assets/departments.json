@@ -1,0 +1,26 @@
+[
+    {
+        "department_name": "Software Development",
+        "department_id": "D201",
+        "Head": "Pankaj Thakur",
+        "No_Employees": 123,
+        "department_functions": "Developing and maintaining software applications",
+        "Contact": "dev.contact@example.com"
+    },
+    {
+        "department_name": "Quality Assurance",
+        "department_id": "D202",
+        "Head": "Anusha Rai",
+        "No_Employees": 98,
+        "department_functions": "Testing software applications for quality and performance",
+        "Contact": "qa.contact@example.com"
+    },
+    {
+        "department_name": "Technical Support",
+        "department_id": "D203",
+        "Head": "Ram Kumar",
+        "No_Employees": 76,
+        "department_functions": "Providing technical support and troubleshooting for software products",
+        "Contact": "support.contact@example.com"
+    }
+]
