@@ -1,0 +1,60 @@
+.department-cards-container {
+  padding: 20px;
+  background-color: #f8f9fa;
+  text-align: center;
+  height: 100vh;
+}
+
+.dashboard-header {
+  display: flex;
+  justify-content: space-around;
+  background-color: #0bc3f6;
+  color: white;
+  padding: 10px;
+}
+
+.header-section {
+  cursor: pointer;
+  flex-grow: 1;
+  padding: 10px;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  text-align: center;
+}
+
+.card {
+  background-color: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 30px;
+  margin: 40px auto;
+  max-width: 600px; 
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); 
+  margin-top: 10rem;
+  height: 40%;
+  font-size: 1.3rem;
+}
+.card h2{
+padding-top: 0.9rem;
+}
+
+.navigation-buttons {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.navigation-buttons button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin: 0 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.navigation-buttons button:hover {
+  background-color: #0056b3;
+}

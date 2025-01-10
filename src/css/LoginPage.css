@@ -1,0 +1,117 @@
+.LogBox{
+    display: grid;
+    grid-template-columns: 40% auto;
+    height: 100vh;
+    width: 100%;
+}
+
+.LogBox .ltab {
+    height: 100%;
+    /* border: 1px solid #000000; */
+    background-image: linear-gradient(180deg, rgba(28, 4, 96, 0) 0%, #2a4abf 100%);
+    font-weight: 600;
+    font-size: 5rem;
+    border-bottom: none;
+    display: inline-block;
+}
+
+.ltab .Ltitle3{
+    width:70%;
+    /* padding-top:1rem; */
+    color: #234779;
+    padding-left: 10%;
+    text-align: center;
+}
+
+.ltab .stitle3{
+    color: #09963a;
+    padding-top:1rem;
+    padding-bottom: 5rem;
+    padding-left: 10%;
+}
+
+.ltab .img-wrap{
+    display: flex;
+    justify-content: center;
+    padding-top: 0rem;
+    padding-right: 10%;
+    padding-top: 15rem;
+}
+
+.ltab .img-holder{
+    display: flex;
+    justify-content: center;
+    width: 90%;
+}
+.ltab .img-holder>img {
+    max-width: 45%;
+    height: auto; 
+}
+
+.rtab{
+    padding-left: 15%;
+}
+
+.rtab .MTitle{
+    padding-top: 5.5rem;
+    font-size: 5rem;
+    font-weight: 600;
+    padding-bottom:6rem;
+}
+
+.rtab .labelText{
+    padding-top: 2rem;
+    font-weight: 600;
+    font-size:1.5rem;
+    color: rgba(0, 0, 0, 0.64);
+}
+
+.rtab .linput-1,
+.rtab .linput-2{
+    width: 55%;
+    padding: 0.5%;
+    margin: 8px 0;
+    height: 3.5rem;
+    font-size:1.5rem;
+    box-sizing: border-box;
+    border-radius: 1rem;
+    background: rgba(196, 196, 196, 0.1);
+    border: 0.2rem solid rgba(0, 0, 0, 0.29);
+    margin-bottom: 4rem;
+}
+
+.rtab .linput-2 {
+    margin-bottom: 0rem;
+}
+
+.rtab .footer {
+    margin-top: 4.8rem;
+    flex: 20%;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    padding-right: 45%;
+    padding-top:5rem;
+    padding-bottom: 5rem;
+}
+.rtab .footer #loginBtn{
+    width: 17rem;
+    background-color: #1C0460;
+    border: 0.2rem solid rgba(0, 0, 0, 0.29);
+    color: white;
+    padding: 1.5rem 1.5rem;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius:1rem;
+    font-size:1.5rem;
+    text-align: center;
+
+}
+.rtab .forgot-password {
+    float: right;
+    padding-right: 45%;
+    font-weight: 600;
+    font-size:1.5rem;
+    color: rgba(0, 0, 0, 0.64);
+}

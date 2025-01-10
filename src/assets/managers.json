@@ -1,0 +1,23 @@
+[
+    {
+        "first_name": "Pankaj",
+        "last_name": "Thakur",
+        "phone_number": "+91-9876543210",
+        "email": "pankaj.thakur@example.com",
+        "department_id": "D201"
+    },
+    {
+        "first_name": "Anusha",
+        "last_name": "Rai",
+        "phone_number": "+91-9876563218",
+        "email": "anusha.rai@example.com",
+        "department_id": "D202"
+    },
+    {
+        "first_name": "Ram",
+        "last_name": "Kumar",
+        "phone_number": "+91-9843743213",
+        "email": "ram.kumar@example.com",
+        "department_id": "D203"
+    }
+]

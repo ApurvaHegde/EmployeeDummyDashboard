@@ -1,0 +1,378 @@
+[
+  {
+      "first_name": "Amit",
+      "last_name": "Sharma",
+      "manager": "Pankaj",
+      "phone_number": "+91-9876543210",
+      "email": "amit.sharma@example.com",
+      "department_id": "D201"
+  },
+  {
+      "first_name": "Neha",
+      "last_name": "Singh",
+      "manager": "Pankaj",
+      "phone_number": "+91-9123456789",
+      "email": "neha.singh@example.com",
+      "department_id": "D201"
+  },
+  {
+      "first_name": "Raj",
+      "last_name": "Verma",
+      "manager": "Pankaj",
+      "phone_number": "+91-9988776655",
+      "email": "raj.verma@example.com",
+      "department_id": "D201"
+  },
+  {
+      "first_name": "Sita",
+      "last_name": "Patel",
+      "manager": "Pankaj",
+      "phone_number": "+91-9812345678",
+      "email": "sita.patel@example.com",
+      "department_id": "D201"
+  },
+  {
+      "first_name": "Rohan",
+      "last_name": "Kumar",
+      "manager": "Pankaj",
+      "phone_number": "+91-9123456700",
+      "email": "rohan.kumar@example.com",
+      "department_id": "D201"
+  },
+  {
+      "first_name": "Meena",
+      "last_name": "Joshi",
+      "manager": "Pankaj",
+      "phone_number": "+91-9876543200",
+      "email": "meena.joshi@example.com",
+      "department_id": "D201"
+  },
+  {
+      "first_name": "Kiran",
+      "last_name": "Desai",
+      "manager": "Pankaj",
+      "phone_number": "+91-9988776644",
+      "email": "kiran.desai@example.com",
+      "department_id": "D201"
+  },
+  {
+      "first_name": "Anil",
+      "last_name": "Reddy",
+      "manager": "Pankaj",
+      "phone_number": "+91-9123456799",
+      "email": "anil.reddy@example.com",
+      "department_id": "D201"
+  },
+  {
+      "first_name": "Sunita",
+      "last_name": "Gupta",
+      "manager": "Pankaj",
+      "phone_number": "+91-9876543222",
+      "email": "sunita.gupta@example.com",
+      "department_id": "D201"
+  },
+  {
+      "first_name": "Vikram",
+      "last_name": "Rao",
+      "manager": "Pankaj",
+      "phone_number": "+91-9123456711",
+      "email": "vikram.rao@example.com",
+      "department_id": "D201"
+  },
+  {
+      "first_name": "John",
+      "last_name": "Doe",
+      "manager": "Anusha",
+      "phone_number": "+1-555-123-4567",
+      "email": "john.doe@example.com",
+      "department_id": "D202"
+  },
+  {
+      "first_name": "Emily",
+      "last_name": "Smith",
+      "manager": "Anusha",
+      "phone_number": "+1-555-987-6543",
+      "email": "emily.smith@example.com",
+      "department_id": "D202"
+  },
+  {
+      "first_name": "Michael",
+      "last_name": "Johnson",
+      "manager": "Anusha",
+      "phone_number": "+1-555-345-6789",
+      "email": "michael.johnson@example.com",
+      "department_id": "D202"
+  },
+  {
+      "first_name": "Jessica",
+      "last_name": "Williams",
+      "manager": "Anusha",
+      "phone_number": "+1-555-234-5678",
+      "email": "jessica.williams@example.com",
+      "department_id": "D202"
+  },
+  {
+      "first_name": "Chris",
+      "last_name": "Brown",
+      "manager": "Anusha",
+      "phone_number": "+1-555-456-7890",
+      "email": "chris.brown@example.com",
+      "department_id": "D202"
+  },
+  {
+      "first_name": "Ashley",
+      "last_name": "Jones",
+      "manager": "Anusha",
+      "phone_number": "+1-555-567-8901",
+      "email": "ashley.jones@example.com",
+      "department_id": "D202"
+  },
+  {
+      "first_name": "Matthew",
+      "last_name": "Garcia",
+      "manager": "Anusha",
+      "phone_number": "+1-555-678-9012",
+      "email": "matthew.garcia@example.com",
+      "department_id": "D202"
+  },
+  {
+      "first_name": "Sarah",
+      "last_name": "Martinez",
+      "manager": "Anusha",
+      "phone_number": "+1-555-789-0123",
+      "email": "sarah.martinez@example.com",
+      "department_id": "D202"
+  },
+  {
+      "first_name": "David",
+      "last_name": "Rodriguez",
+      "manager": "Anusha",
+      "phone_number": "+1-555-890-1234",
+      "email": "david.rodriguez@example.com",
+      "department_id": "D202"
+  },
+  {
+      "first_name": "Laura",
+      "last_name": "Wilson",
+      "manager": "Anusha",
+      "phone_number": "+1-555-901-2345",
+      "email": "laura.wilson@example.com",
+      "department_id": "D202"
+  },
+  {
+      "first_name": "Priya",
+      "last_name": "Kumar",
+      "manager": "Ram",
+      "phone_number": "+91-9876543234",
+      "email": "priya.kumar@example.com",
+      "department_id": "D203"
+  },
+  {
+      "first_name": "Vijay",
+      "last_name": "Patel",
+      "manager": "Ram",
+      "phone_number": "+91-9988776644",
+      "email": "vijay.patel@example.com",
+      "department_id": "D203"
+  },
+  {
+      "first_name": "Sanjay",
+      "last_name": "Rao",
+      "manager": "Ram",
+      "phone_number": "+91-9123456798",
+      "email": "sanjay.rao@example.com",
+      "department_id": "D203"
+  },
+  {
+      "first_name": "Anita",
+      "last_name": "Mehta",
+      "manager": "Ram",
+      "phone_number": "+91-9876543211",
+      "email": "anita.mehta@example.com",
+      "department_id": "D203"
+  },
+  {
+      "first_name": "Deepak",
+      "last_name": "Nair",
+      "manager": "Ram",
+      "phone_number": "+91-9123456722",
+      "email": "deepak.nair@example.com",
+      "department_id": "D203"
+  },
+  {
+      "first_name": "Rita",
+      "last_name": "Kapoor",
+      "manager": "Ram",
+      "phone_number": "+91-9876543244",
+      "email": "rita.kapoor@example.com",
+      "department_id": "D203"
+  },
+  {
+      "first_name": "Arjun",
+      "last_name": "Gill",
+      "manager": "Ram",
+      "phone_number": "+91-9123456733",
+      "email": "arjun.gill@example.com",
+      "department_id": "D203"
+  },
+  {
+      "first_name": "Geeta",
+      "last_name": "Roy",
+      "manager": "Ram",
+      "phone_number": "+91-9876543255",
+      "email": "geeta.roy@example.com",
+      "department_id": "D203"
+  },
+  {
+      "first_name": "Rakesh",
+      "last_name": "Ghosh",
+      "manager": "Ram",
+      "phone_number": "+91-9123456744",
+      "email": "rakesh.ghosh@example.com",
+      "department_id": "D203"
+  },
+  {
+      "first_name": "Alok",
+      "last_name": "Bose",
+      "manager": "Ram",
+      "phone_number": "+91-9876543266",
+      "email": "alok.bose@example.com",
+      "department_id": "D203"
+  },
+  {
+      "first_name": "Hema",
+      "last_name": "Pillai",
+      "manager": "Pankaj",
+      "phone_number": "+91-9876543277",
+      "email": "hema.pillai@example.com",
+      "department_id": "D201"
+  },
+  {
+      "first_name": "Nilesh",
+      "last_name": "Iyer",
+      "manager": "Pankaj",
+      "phone_number": "+91-9123456755",
+      "email": "nilesh.iyer@example.com",
+      "department_id": "D201"
+  },
+  {
+      "first_name": "Kavita",
+      "last_name": "Sinha",
+      "manager": "Pankaj",
+      "phone_number": "+91-9876543288",
+      "email": "kavita.sinha@example.com",
+      "department_id": "D201"
+  },
+  {
+      "first_name": "Manoj",
+      "last_name": "Shah",
+      "manager": "Pankaj",
+      "phone_number": "+91-9123456766",
+      "email": "manoj.shah@example.com",
+      "department_id": "D201"
+  },
+  {
+      "first_name": "Rina",
+      "last_name": "Banerjee",
+      "manager": "Pankaj",
+      "phone_number": "+91-9876543299",
+      "email": "rina.banerjee@example.com",
+      "department_id": "D201"
+  },
+  {
+      "first_name": "Nitin",
+      "last_name": "Chopra",
+      "manager": "Pankaj",
+      "phone_number": "+91-9123456777",
+      "email": "nitin.chopra@example.com",
+      "department_id": "D201"
+  },
+  {
+      "first_name": "Ajay",
+      "last_name": "Malhotra",
+      "manager": "Pankaj",
+      "phone_number": "+91-9876543300",
+      "email": "ajay.malhotra@example.com",
+      "department_id": "D201"
+  },
+  {
+      "first_name": "Sophia",
+      "last_name": "Taylor",
+      "manager": "Anusha",
+      "phone_number": "+1-555-234-6789",
+      "email": "sophia.taylor@example.com",
+      "department_id": "D202"
+  },
+  {
+      "first_name": "Daniel",
+      "last_name": "Harris",
+      "manager": "Anusha",
+      "phone_number": "+1-555-345-7890",
+      "email": "daniel.harris@example.com",
+      "department_id": "D202"
+  },
+  {
+      "first_name": "Olivia",
+      "last_name": "Clark",
+      "manager": "Anusha",
+      "phone_number": "+1-555-456-8901",
+      "email": "olivia.clark@example.com",
+      "department_id": "D202"
+  },
+  {
+      "first_name": "Lucas",
+      "last_name": "Lewis",
+      "manager": "Anusha",
+      "phone_number": "+1-555-567-9012",
+      "email": "lucas.lewis@example.com",
+      "department_id": "D202"
+  },
+  {
+      "first_name": "Isabella",
+      "last_name": "Lee",
+      "manager": "Anusha",
+      "phone_number": "+1-555-678-0123",
+      "email": "isabella.lee@example.com",
+      "department_id": "D202"
+  },
+  {
+      "first_name": "Ethan",
+      "last_name": "Walker",
+      "manager": "Anusha",
+      "phone_number": "+1-555-789-1234",
+      "email": "ethan.walker@example.com",
+      "department_id": "D202"
+  },
+  {
+      "first_name": "Aarav",
+      "last_name": "Shah",
+      "manager": "Ram",
+      "phone_number": "+91-9123456781",
+      "email": "aarav.shah@example.com",
+      "department_id": "D203"
+  },
+  {
+      "first_name": "Lakshmi",
+      "last_name": "Naidu",
+      "manager": "Ram",
+      "phone_number": "+91-9876543212",
+      "email": "lakshmi.naidu@example.com",
+      "department_id": "D203"
+  },
+  {
+      "first_name": "Harish",
+      "last_name": "Menon",
+      "manager": "Ram",
+      "phone_number": "+91-9123456790",
+      "email": "harish.menon@example.com",
+      "department_id": "D203"
+  },
+  {
+      "first_name": "Vandana",
+      "last_name": "Bhatia",
+      "manager": "Ram",
+      "phone_number": "+91-9876543223",
+      "email": "vandana.bhatia@example.com",
+      "department_id": "D203"
+  }
+]
