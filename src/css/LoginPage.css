@@ -66,8 +66,8 @@
     color: rgba(0, 0, 0, 0.64);
 }
 
-.rtab .linput-1,
-.rtab .linput-2{
+.rtab .username,
+.rtab .password {
     width: 55%;
     padding: 0.5%;
     margin: 8px 0;
@@ -80,7 +80,7 @@
     margin-bottom: 4rem;
 }
 
-.rtab .linput-2 {
+.rtab .password {
     margin-bottom: 0rem;
 }
 

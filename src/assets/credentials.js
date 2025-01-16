@@ -1,5 +1,9 @@
 export const credentials = [
     {
+        username: 'aphegde',
+        password: 'aphegde1234'
+    },
+    {
         username: 'amit.sharma',
         password: 'amitsha1234'
     },

@@ -30,7 +30,6 @@ function LoginPage() {
           
           <div className='img-wrap'><div className='img-holder'><img src={img} alt=""/> </div></div>
           <div className='Ltitle3'>CISCO</div>
-          <div className="stitle3">Login Now!!!</div>
           <div className='img-wrap'>
         </div>
         </div>
@@ -38,9 +37,9 @@ function LoginPage() {
           <div className="MTitle">Log in</div>
           <form onSubmit={handleLogin}>
             <div>
-              <label className='labelText'>User ID<br /></label>
+              <label className='labelText'>Username<br /></label>
               <input
-                className='linput-1'
+                className='username'
                 type="text"
                 value={username}
                 onChange={(e) => setUsername(e.target.value)}
@@ -49,7 +48,7 @@ function LoginPage() {
               <br />
               <label className='labelText'>Password<br /></label>
               <input
-                className='linput-2'
+                className='password'
                 type="password"
                 value={password}
                 onChange={(e) => setPassword(e.target.value)}
@@ -57,7 +56,7 @@ function LoginPage() {
               />
             </div>
               <Link to="#">
-                <div className="forgot-password">Forgot password</div>
+                <div className="forgot-password">Forgot password?</div>
               </Link>
             <div className="footer">
               <button id="loginBtn" type="submit">LOGIN</button>
